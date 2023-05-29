@@ -1,4 +1,4 @@
-# AmpliacionCalculo. Grado de Nanociencia y Nanotecnología de la UDC.
+# Ampliación de Cálculo. Grado de Nanociencia y Nanotecnología de la UDC.
 
 Jupyter Notebooks y apuntes de la asignatura de Ampliación de Cálculo del grado de Nanociencia y Nanotecnología de la Universidad de A Coruña. 
 
